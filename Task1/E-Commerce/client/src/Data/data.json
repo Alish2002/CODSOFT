@@ -1,0 +1,60 @@
+[
+    {
+        "item":1,
+       "image":"shoe1.webp",
+       "name":"Campus",
+       "detail":"MIKE (N) Running Shoes For Men  (Burgundy)",
+       "price":1025
+    }
+    ,
+    {
+        "item":2,
+        "image":"shoe2.webp",
+        "name":"BERSACHE",
+        "detail":"Bersache Sports Shoes For Men|Light Grey For Running,Walking,gym & hiking Shoes Running Shoes For Men  (Grey)",
+        "price":1180
+    },
+    {
+        "item":3,
+        "image":"shoe3.webp",
+        "name":"ADIDAS",
+        "detail":"OWNTHEGAME 2.0 Basketball Shoes For Men  (Black)",
+        "price":3022
+    },
+    {
+        "item":4,
+        "image":"shoe4.webp",
+        "name":"ADIDAS",
+        "detail":"Adiglide M Running Shoes For Men  (Green)",
+        "price":1596
+    },
+    {
+        "item":5,
+        "image":"shoe5.webp",
+        "name":"PUMA",
+        "detail":"Feet Rodeo X2 Running Shoes For Men  (Navy)",
+        "price":1246
+    },
+    {
+        "item":6,
+        "image":"shoe6.webp",
+        "name":"CAMPUS",
+        "detail":"HURRICANE Running Shoes For Men  (White)",
+        "price":798      
+    },
+    {
+        "item":7,
+        "image":"shoe7.webp",
+        "name":"NIKE ",
+        "detail":"Revolution 6 Running Shoes For Men  (Blue)",
+        "price":3325        
+    },
+    {
+        "item":8,
+        "image":"shoe8.webp",
+        "name":"BROOKS ",
+        "detail":"ADRENALINE GTS 22 Running Shoes For Men  (Blue)",
+        "price":5466      
+    }
+    
+]
